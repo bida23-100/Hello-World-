@@ -1,10 +1,17 @@
-  <H1 style="color:#ffffff;">
+  H1
+{
+  color:#ffffff;
+}
 
-   <style>
-      p {
+
+  p 
+{
         text-align:center;
-        color:#3600d2;
-      }
-    </style>
+        color:#3600d2; 
+}
 
-<BODY style="background-color:#868eff;">
+
+BODY
+{
+background-color:#868eff;
+}
